@@ -1,10 +1,10 @@
 
-resources/
+!**/src/test/**/resources/
+src/main/resources/db.properties
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-java/BankCLI/src/main/resources/db.properties
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
